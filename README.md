@@ -36,37 +36,26 @@
 
 Админские кнопки проверяются на сервере при каждом нажатии, а не только скрыты в интерфейсе.
 
-## 💬 Как это выглядит
+## 📸 Как это выглядит
 
-```
-🤖  Главное меню:
-    [Аниме] [Фильмы] [Сериалы] [Книги]
-    [✦ Свежак]
-    [▶ В процессе]
-    [✉ Предложить контент]
+Так бот выглядит для гостя.
 
-👤  [Аниме] → [Весь список]
-🤖  Аниме · стр. 1/3
+<table><tr>
+<td align="center" valign="top"><img src="docs/screenshots/main_menu.png" width="260"><br><sub>Главное меню</sub></td>
+<td align="center" valign="top"><img src="docs/screenshots/films_menu.png" width="260"><br><sub>Раздел: фильтры и поиск</sub></td>
+<td align="center" valign="top"><img src="docs/screenshots/films_tags.png" width="260"><br><sub>Теги по популярности, со счётчиком</sub></td>
+</tr></table>
 
-    1. Фрирен
-    шедевр
-    2. Ковбой Бибоп
-    очень понравилось · ⟲
-                                             [1] [2] [3] [4] [5]
-                                                  [>>]  [← Назад]
+<table><tr>
+<td align="center" valign="top"><img src="docs/screenshots/watched_films.png" width="260"><br><sub>Список с оценками и режиссёрами</sub></td>
+<td align="center" valign="top"><img src="docs/screenshots/film.png" width="260"><br><sub>Карточка записи</sub></td>
+<td align="center" valign="top"><img src="docs/screenshots/fresh.png" width="260"><br><sub>✦ Свежак: что отмечено недавно</sub></td>
+</tr></table>
 
-👤  [1]
-🤖  Фрирен
-    ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-    ▶ Сейчас: сезон 1, серия 7
-    Оценка: шедевр
-    Мнение: …
-    ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-    Описание: …
-    Теги: фэнтези, приключения
-    Сезоны: 1 · Серии: 28
-                                       [♡ В избранное] [✎ Отправить отзыв]
-```
+<table><tr>
+<td align="center" valign="top"><img src="docs/screenshots/search.png" width="260"><br><sub>Поиск без учёта регистра</sub></td>
+<td align="center" valign="top"><img src="docs/screenshots/suggest.png" width="260"><br><sub>Анонимное предложение контента</sub></td>
+</tr></table>
 
 ## 🧭 Структура проекта
 
